@@ -46,7 +46,7 @@ function followPlayer() {
 }
 
 
-bot.once('spawn', followPlaye)
+bot.once('spawn', followPlayer)
 
 
 
